@@ -1,6 +1,6 @@
 # Awesome-APIM-AOAI
 
-Welcome to my GitHub repository where I provide a comparison of various API Managemnet integration samples with OpenAI.
+Welcome to my GitHub repository where I provide a comparison of various API Management integration samples with OpenAI.
 
 | Option | Terraform Support | Conversation Logs | Chargeback | Load Balancing 
 |--------|-------------------|-------------------|------------|----------------|
